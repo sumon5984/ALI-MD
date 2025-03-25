@@ -1,7 +1,7 @@
 {
   "name": "ALI-MD",
   "description": "Javascript WhatsApp bot made by ALI",
-  "logo": "https://cdn.ironman.my.id/i/2du3i5.jpg",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVzBqX4HpQ-H-Xi1Goo5X5YtFTR2Bf20Jkp-9JLniTwd3KhmbCnkO1NPC&s=10",
   "keywords": ["ALI-MD"],
   "success_url": "/",
 
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "VdwUDJKa#UHhIGyDMz9jUK3eRp7ZyDOAQIvB7fcCmfUSA8TbnVuM"
     },  
     
     "STICKER_NAME": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS JUST NOW ALI-MD 🍒*"
+      "value": "*SEEN YOUR STATUS JUST NOW SUMON 🍒*"
    
      }, 
 
@@ -93,7 +93,7 @@
     "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://cdn.ironman.my.id/i/2du3i5.jpg" 
+      "value": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVzBqX4HpQ-H-Xi1Goo5X5YtFTR2Bf20Jkp-9JLniTwd3KhmbCnkO1NPC&s=10" 
       },
 
     "DELETE_LINK": {
@@ -141,7 +141,7 @@
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
+      "required": true,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
