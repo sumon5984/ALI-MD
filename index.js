@@ -46,7 +46,7 @@ const {
   const online = config.ALWAYS_ONLINE
   const status = config.AUTO_STATUS_SEEN
   
-  const ownerNumber = ['923003588997']
+  const ownerNumber = ['919088873712']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -213,7 +213,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const ali = ('923003588997');
+    const ali = ('919088873712');
     let isCreator = [udp, ali, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -259,31 +259,31 @@ const port = process.env.PORT || 9090;
 					return;
 				}
  //================ownerreact==============
-    if(senderNumber.includes("923003588997")){
+    if(senderNumber.includes("919088873712")){
   if(isReact) return
   m.react("🪾")
     }
-if(senderNumber.includes("923003588997")){
+if(senderNumber.includes("919088873712")){
   if(isReact) return
   m.react("🫩")
 	  }
-	  if(senderNumber.includes("923003588997")){
+	  if(senderNumber.includes("919088873712")){
   if(isReact) return
   m.react("🫆")
 	  }
-	  if(senderNumber.includes("923003588997")){
+	  if(senderNumber.includes("919088873712")){
   if(isReact) return
   m.react("🫜")
 	  }
-	  if(senderNumber.includes("923003588997")){
+	  if(senderNumber.includes("919088873712")){
   if(isReact) return
   m.react("🪉")
 	  }
-	  if(senderNumber.includes("923003588997")){
+	  if(senderNumber.includes("919088873712")){
   if(isReact) return
   m.react("🪏")
 	  }
-	  if(senderNumber.includes("923003588997")){
+	  if(senderNumber.includes("919088873712")){
   if(isReact) return
   m.react("🫟")
 	  }
