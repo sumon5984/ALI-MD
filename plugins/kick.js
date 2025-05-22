@@ -49,7 +49,7 @@ cmd({
         
         // Extraire le tag à partir du JID (ex: "1234567890" sans "@s.whatsapp.net")
         const tag = target.split('@')[0];
-        reply(`*@${tag} кι¢кє∂ ѕᴜᴄᴄєѕѕfᴜℓℓу!*`, { mentions: [target] });
+        reply(`*@${tag} кι¢кє∂ ѕᴜᴄᴄєѕѕfᴜℓℓу😂!*`, { mentions: [target] });
     } catch (error) {
         console.error('Error while executing kick:', error);
         reply('❌ An error occurred while executing the command.');
