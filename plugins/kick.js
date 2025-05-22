@@ -5,7 +5,7 @@ cmd({
   pattern: "kick",
   alias: ["k", "💀"],
   desc: "Removes a participant by replying to or mentioning their message. (Admins can also be kicked)",
-  react: "🚪",
+  react: "",
   category: "group",
   filename: __filename,
 }, async (conn, mek, m, {
