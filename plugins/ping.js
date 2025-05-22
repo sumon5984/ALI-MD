@@ -1,4 +1,3 @@
-/*
 const config = require('../config');
 const { cmd, commands } = require('../command');
 
@@ -96,7 +95,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const end = new Date().getTime();
         const responseTime = (end - start) / 1000;
 
-        const text = `*${reactionEmoji} 𝐏๏፝֟ƞ̽g ${responseTime.toFixed(2)} 𝐌ʂ*`;
+        const text = `*${reactionEmoji} 𝐏๏፝֟ƞ̽g👀 ${responseTime.toFixed(2)} 𝐌ʂ*`;
 
         await conn.sendMessage(from, {
             text,
