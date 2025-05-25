@@ -14,3 +14,5 @@ app.listen(port, () => {
   console.log(`ALI-MD Bot listening on port ${port}`);
 
 });
+
+bot.start();
